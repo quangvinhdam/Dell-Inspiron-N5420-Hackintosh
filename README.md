@@ -1,6 +1,6 @@
 # Dell Inspiron N5420 Hackintosh
 
-# Specs:
+# Working:
 - CPU: Intel Core i5 3340M
 - Intel HD4000
 - Restart and Shutdown
@@ -13,6 +13,7 @@
 - Touchpad
 - All Port USB
 
-# What doesn't work:
+# Not Working:
 - Airdrop
 - NVIDIA GeForce GT 630M
+- SDcard Port
